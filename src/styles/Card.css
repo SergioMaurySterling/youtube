@@ -1,0 +1,70 @@
+.card{
+  color: white;
+  width: 97%;
+  height: auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  padding-left: 40px;
+  margin-top: 16px;
+}
+
+.main-card{
+  width: 303px;
+  height: 290px;
+  margin-right: 24px;
+  margin-bottom: 24px;
+  cursor: pointer;
+}
+
+.duration{
+  position: relative;
+  top: -55px;
+  left: 240px;
+  width: 41px;
+  height: 19px;
+  background-color: black;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 5px;
+}
+
+.main-card-info{
+  display: flex;
+  position: relative;
+  top: -45px;
+}
+
+.avatar{
+  width: 32px;
+  height: 38px;
+}
+
+.data{
+  width:263px;
+  height: 104px;
+  padding-left: 8px;
+}
+
+.username {
+  margin-top: 0px;
+  margin-bottom: 8px;
+  font-size: 14px;
+  font-weight: 400;
+  color: #A3A3A3;
+}
+
+.info {
+  margin-top: 0px;
+  margin-bottom: 8px;
+  font-size: 14px;
+  font-weight: 400;
+  color: #A3A3A3;
+}
+
+.title{
+  font-size: 18px;
+  font-weight: 700;
+  color: white;
+  margin-top: 0px;
+}
