@@ -12,13 +12,13 @@ import '../styles/Card.css'
 
 const card = [
   {'photo': uno, 'duration': '13:55', 'title': '¿Cómo Consumir una API | Pokémon API?', 'avatar': a1, 'username': 'Leonidas Esteban', 'views': 54, 'history': 'hace 16 minutos'},
-  {'photo': dos, 'duration': '13:52', 'title': '¿Cómo Consumir una API | Pokémon API?', 'avatar': a2, 'username': 'Leonidas Esteban', 'views': 54, 'history': 'hace 16 minutos'},
-  {'photo': tres, 'duration': '13:55', 'title': '¿Cómo Consumir una API | Pokémon API?', 'avatar': a3, 'username': 'Leonidas Esteban', 'views': 54, 'history': 'hace 16 minutos'},
+  {'photo': dos, 'duration': '25:52', 'title': '¿Cómo Consumir una API | Pokémon API?', 'avatar': a2, 'username': 'Leonidas Esteban', 'views': 54, 'history': 'hace 16 minutos'},
+  {'photo': tres, 'duration': '56:50', 'title': '¿Cómo Consumir una API | Pokémon API?', 'avatar': a3, 'username': 'Leonidas Esteban', 'views': 54, 'history': 'hace 16 minutos'},
   {'photo': cuatro, 'duration': '13:55', 'title': '¿Cómo Consumir una API | Pokémon API?', 'avatar': a4, 'username': 'Leonidas Esteban', 'views': 54, 'history': 'hace 16 minutos'},
   {'photo': uno, 'duration': '13:55', 'title': '¿Cómo Consumir una API | Pokémon API?', 'avatar': a1, 'username': 'Leonidas Esteban', 'views': 54, 'history': 'hace 16 minutos'},
   {'photo': dos, 'duration': '13:52', 'title': '¿Cómo Consumir una API | Pokémon API?', 'avatar': a2, 'username': 'Leonidas Esteban', 'views': 54, 'history': 'hace 16 minutos'},
   {'photo': tres, 'duration': '13:55', 'title': '¿Cómo Consumir una API | Pokémon API?', 'avatar': a3, 'username': 'Leonidas Esteban', 'views': 54, 'history': 'hace 16 minutos'},
-  {'photo': cuatro, 'duration': '13:55', 'title': '¿Cómo Consumir una API | Pokémon API?', 'avatar': a4, 'username': 'Leonidas Esteban', 'views': 54, 'history': 'hace 16 minutos'},
+  {'photo': cuatro, 'duration': '35:21', 'title': '¿Cómo Consumir una API | Pokémon API?', 'avatar': a4, 'username': 'Leonidas Esteban', 'views': 54, 'history': 'hace 16 minutos'},
   {'photo': uno, 'duration': '13:55', 'title': '¿Cómo Consumir una API | Pokémon API?', 'avatar': a1, 'username': 'Leonidas Esteban', 'views': 54, 'history': 'hace 16 minutos'},
   {'photo': dos, 'duration': '13:52', 'title': '¿Cómo Consumir una API | Pokémon API?', 'avatar': a2, 'username': 'Leonidas Esteban', 'views': 54, 'history': 'hace 16 minutos'},
   {'photo': tres, 'duration': '13:55', 'title': '¿Cómo Consumir una API | Pokémon API?', 'avatar': a3, 'username': 'Leonidas Esteban', 'views': 54, 'history': 'hace 16 minutos'},
